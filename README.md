@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @davidzhabin
-- 👀 I’m interested in busineess
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on ntz.team
-- 📫 How to reach me telegram @davidzhabin
+- 🌱 I’m currently working on bunch of stuff! 
+- 📫 learn more and connect with me on davidzhabin.com
 
 <!---
 davidzhabin/davidzhabin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
